@@ -1,6 +1,6 @@
 # 👨‍💻 Alexandro F. S. Martins
 
-**Alexandro F. S. Martins**  
+
 **Desenvolvedor Web Full Stack | Especialista WordPress | Fundador da A7 Sites**
 
 Desenvolvedor apaixonado por criar soluções inteligentes e eficientes para web.  
